@@ -1,1 +1,1 @@
-Criando pagina inicial do netflix
+Criando pagina do netflix
